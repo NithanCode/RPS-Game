@@ -4,7 +4,6 @@ This is a simple Rock-Paper-Scissors game developed using HTML, CSS, and JavaScr
 
 ![Rock-Paper-Scissors Game Screenshot 1](https://github.com/NithanCode/RPS-Game/blob/main/RPS%20Ex1.png)
 ![Rock-Paper-Scissors Game Screenshot 2](https://github.com/NithanCode/RPS-Game/blob/main/RPS%20Ex2.png)
-![Rock-Paper-Scissors Game Screenshot 3](https://github.com/NithanCode/RPS-Game/blob/main/RPS%20days.png)
 
 ## How to Play
 
